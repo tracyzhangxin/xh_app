@@ -1,0 +1,348 @@
+[ 2016-05-27T19:38:34+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/xhbbs
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Index
+
+[ 2016-05-27T19:39:07+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2016-05-27T20:41:08+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/PublishEssay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-05-27T20:41:21+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/PublishEssay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-05-27T20:43:01+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/getdetails
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.028002s ]
+INFO: [ app_end ] --END-- [ RunTime:0.028002s ]
+
+[ 2016-05-27T20:43:14+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/publishessay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-05-27T20:43:48+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/publishessay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:publishessay
+
+[ 2016-05-27T20:43:58+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/PublishEssay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:PublishEssay
+
+[ 2016-05-27T20:44:58+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/PublishEssay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:PublishEssay
+
+[ 2016-05-27T20:44:59+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/PublishEssay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:PublishEssay
+
+[ 2016-05-27T20:45:00+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/PublishEssay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:PublishEssay
+
+[ 2016-05-27T20:45:07+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/publishessay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:publishessay
+
+[ 2016-05-27T20:45:45+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/publishessay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:publishessay
+
+[ 2016-05-27T20:45:47+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/publishessay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:publishessay
+
+[ 2016-05-27T20:46:06+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/getdetails
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-27T20:46:22+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/getdetails
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant a - assumed 'a' G:\xampp\htdocs\thinkphp_3.2.3_full\Api\XHBBS\Controller\EssayController.class.php 第 27 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-27T20:46:44+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/publishessay
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:publishessay
+
+[ 2016-05-27T20:46:50+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:publish
+
+[ 2016-05-27T20:47:48+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/appear
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-27T20:48:09+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/appear
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `xh_article` [ RunTime:0.0040s ]
+SQL: INSERT INTO `xh_article` (`userid`,`content`,`title`,`runtime`) VALUES ('2012011','very','admin','16-05-27 08:48:09') [ RunTime:0.0670s ]
+
+[ 2016-05-27T20:48:14+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/appear
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`gdufs_xh`.`xh_article`, CONSTRAINT `FK_ID` FOREIGN KEY (`userid`) REFERENCES `xh_user` (`UserID`))
+ [ SQL语句 ] : INSERT INTO `xh_article` (`userid`,`content`,`title`,`runtime`) VALUES ('','','','16-05-27 08:48:14')
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`gdufs_xh`.`xh_article`, CONSTRAINT `FK_ID` FOREIGN KEY (`userid`) REFERENCES `xh_user` (`UserID`))
+ [ SQL语句 ] : INSERT INTO `xh_article` (`userid`,`content`,`title`,`runtime`) VALUES ('','','','16-05-27 08:48:14')
+
+[ 2016-05-27T20:49:40+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`gdufs_xh`.`xh_article`, CONSTRAINT `FK_ID` FOREIGN KEY (`userid`) REFERENCES `xh_user` (`UserID`))
+ [ SQL语句 ] : INSERT INTO `xh_article` (`userid`,`content`,`title`,`runtime`) VALUES ('','','','16-05-27 08:49:40')
+ERR: 1452:Cannot add or update a child row: a foreign key constraint fails (`gdufs_xh`.`xh_article`, CONSTRAINT `FK_ID` FOREIGN KEY (`userid`) REFERENCES `xh_user` (`UserID`))
+ [ SQL语句 ] : INSERT INTO `xh_article` (`userid`,`content`,`title`,`runtime`) VALUES ('','','','16-05-27 08:49:40')
+
+[ 2016-05-27T20:49:59+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/publish
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: INSERT INTO `xh_article` (`userid`,`content`,`title`,`runtime`) VALUES ('2012011','very','admin','16-05-27 08:49:59') [ RunTime:0.0170s ]
+
+[ 2016-05-27T21:09:52+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/getarticle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `xh_comment` [ RunTime:0.0020s ]
+SQL: SELECT * FROM `xh_article`  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `xh_comment`  [ RunTime:0.0010s ]
+
+[ 2016-05-27T21:17:01+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/getarticle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 1146:Table 'gdufs_xh.comment' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `xh_article` INNER JOIN comment on comment.articleID=article.ID  
+ERR: 1146:Table 'gdufs_xh.comment' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `xh_article` INNER JOIN comment on comment.articleID=article.ID  
+
+[ 2016-05-27T21:17:20+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/getarticle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 1146:Table 'gdufs_xh.comment' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `xh_article` left JOIN comment on comment.articleID=article.ID  
+ERR: 1146:Table 'gdufs_xh.comment' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `xh_article` left JOIN comment on comment.articleID=article.ID  
+
+[ 2016-05-27T21:17:44+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/getarticle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SELECT * FROM `xh_article` left JOIN xh_comment on xh_comment.articleID=xh_article.ID   [ RunTime:0.0000s ]
+
+[ 2016-05-27T21:20:14+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/getarticle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SELECT * FROM `xh_article` INNER JOIN xh_comment on xh_comment.articleID=xh_article.ID   [ RunTime:0.0000s ]
+
+[ 2016-05-27T21:26:39+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/getarticle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `xh_article` [ RunTime:0.0030s ]
+ERR: 1054:Unknown column 'A>userid' in 'field list'
+ [ SQL语句 ] : SELECT A.ID,A.title,`A>userid`,A.content,A.runtime,B.content comment,B.runtime commenttime FROM xh_article A INNER JOIN xh_comment B on xh_comment.articleID=xh_article.ID  
+ERR: 1054:Unknown column 'A>userid' in 'field list'
+ [ SQL语句 ] : SELECT A.ID,A.title,`A>userid`,A.content,A.runtime,B.content comment,B.runtime commenttime FROM xh_article A INNER JOIN xh_comment B on xh_comment.articleID=xh_article.ID  
+
+[ 2016-05-27T21:27:12+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/getarticle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `xh_article` [ RunTime:0.0030s ]
+ERR: 1054:Unknown column 'xh_comment.articleID' in 'on clause'
+ [ SQL语句 ] : SELECT A.ID,A.title,A.userid,A.content,A.runtime,B.content comment,B.runtime commenttime FROM xh_article A INNER JOIN xh_comment B on xh_comment.articleID=xh_article.ID  
+ERR: 1054:Unknown column 'xh_comment.articleID' in 'on clause'
+ [ SQL语句 ] : SELECT A.ID,A.title,A.userid,A.content,A.runtime,B.content comment,B.runtime commenttime FROM xh_article A INNER JOIN xh_comment B on xh_comment.articleID=xh_article.ID  
+
+[ 2016-05-27T21:28:09+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/getarticle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `xh_article` [ RunTime:0.0030s ]
+SQL: SELECT A.ID,A.title,A.userid,A.content,A.runtime,B.content comment,B.runtime commenttime FROM xh_article A left JOIN xh_comment B on B.articleID=A.ID   [ RunTime:0.0000s ]
+

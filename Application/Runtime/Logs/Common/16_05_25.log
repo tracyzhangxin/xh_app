@@ -1,0 +1,6 @@
+[ 2016-05-25T00:24:56+08:00 ] ::1 /thinkphp_3.2.3_full/application/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Application
+

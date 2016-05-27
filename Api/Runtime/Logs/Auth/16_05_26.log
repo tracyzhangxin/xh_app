@@ -1,0 +1,437 @@
+[ 2016-05-26T19:59:36+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 07:59:36','http://placehold.it/100x100')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 07:59:36','http://placehold.it/100x100')
+
+[ 2016-05-26T20:00:29+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:00:29','http://placehold.it/100x100') [ RunTime:0.0460s ]
+NOTIC: [8] Undefined variable: REG_MSG G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 46 行.
+
+[ 2016-05-26T20:01:31+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:01:31','http://placehold.it/100x100')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:01:31','http://placehold.it/100x100')
+
+[ 2016-05-26T20:01:57+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+
+[ 2016-05-26T20:02:17+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:02:17','http://placehold.it/100x100')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:02:17','http://placehold.it/100x100')
+
+[ 2016-05-26T20:05:37+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:37','http://placehold.it/100x100')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:37','http://placehold.it/100x100')
+
+[ 2016-05-26T20:05:38+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:38','http://placehold.it/100x100')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:38','http://placehold.it/100x100')
+
+[ 2016-05-26T20:05:38+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:38','http://placehold.it/100x100')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:38','http://placehold.it/100x100')
+
+[ 2016-05-26T20:05:39+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:39','http://placehold.it/100x100')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:39','http://placehold.it/100x100')
+
+[ 2016-05-26T20:05:39+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:39','http://placehold.it/100x100')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:39','http://placehold.it/100x100')
+
+[ 2016-05-26T20:05:39+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:39','http://placehold.it/100x100')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:39','http://placehold.it/100x100')
+
+[ 2016-05-26T20:05:39+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:39','http://placehold.it/100x100')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:39','http://placehold.it/100x100')
+
+[ 2016-05-26T20:05:39+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:39','http://placehold.it/100x100')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:39','http://placehold.it/100x100')
+
+[ 2016-05-26T20:05:40+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:40','http://placehold.it/100x100')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:40','http://placehold.it/100x100')
+
+[ 2016-05-26T20:05:40+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:40','http://placehold.it/100x100')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:40','http://placehold.it/100x100')
+
+[ 2016-05-26T20:05:40+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:40','http://placehold.it/100x100')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:40','http://placehold.it/100x100')
+
+[ 2016-05-26T20:05:40+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:40','http://placehold.it/100x100')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:05:40','http://placehold.it/100x100')
+
+[ 2016-05-26T20:07:56+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:07:56','http://placehold.it/100x100')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:07:56','http://placehold.it/100x100')
+
+[ 2016-05-26T20:07:56+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:07:56','http://placehold.it/100x100')
+ERR: 1062:Duplicate entry '' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `xh_user` (`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'zx\'','\'123\'','16-05-26 08:07:56','http://placehold.it/100x100')
+
+[ 2016-05-26T20:13:09+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `xh_user` [ RunTime:0.0050s ]
+SQL: INSERT INTO `xh_user` (`UserID`,`username`,`pwd`,`runtime`,`imageurl`) VALUES ('\'20131\'','\'zx\'','\'123\'','16-05-26 08:13:09','http://placehold.it/100x100') [ RunTime:0.0170s ]
+NOTIC: [8] Undefined variable: REG_MSG G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 42 行.
+
+[ 2016-05-26T20:15:07+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister?userid=%2720131%27&username=%27zx%27&password=%27123%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: password G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: REG_MSG G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 50 行.
+
+[ 2016-05-26T20:15:10+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister/userid='20131'&username='zx'&password='123'
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: REG_MSG G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 50 行.
+
+[ 2016-05-26T20:15:11+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/DoRegister
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: REG_MSG G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 50 行.
+
+[ 2016-05-26T20:15:12+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Index
+
+[ 2016-05-26T20:15:42+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/doRegister
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: REG_MSG G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 50 行.
+
+[ 2016-05-26T20:16:57+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SELECT * FROM `xh_user` WHERE ( userid='20131003634' and pwd='123' )  [ RunTime:0.0010s ]
+
+[ 2016-05-26T20:17:15+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SELECT * FROM `xh_user` WHERE ( userid='20131' and pwd='123' )  [ RunTime:0.0010s ]
+
+[ 2016-05-26T20:20:11+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SELECT * FROM `xh_user` WHERE ( userid='\'20131\'' and pwd='\'123\'' )  [ RunTime:0.0010s ]
+
+[ 2016-05-26T20:21:46+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/doRegister
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined variable: REG_MSG G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 50 行.
+
+[ 2016-05-26T20:22:58+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/doRegister
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: password G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: REG_MSG G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 50 行.
+
+[ 2016-05-26T20:22:59+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/doRegister
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: password G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: REG_MSG G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 50 行.
+
+[ 2016-05-26T20:23:05+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 无法加载控制器:Index
+
+[ 2016-05-26T20:23:13+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/doRegister
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined index: password G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: REG_MSG G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 50 行.
+
+[ 2016-05-26T20:23:25+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/doRegister
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: password G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: REG_MSG G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 50 行.
+
+[ 2016-05-26T20:23:42+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/doRegister
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: password G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: REG_MSG G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 50 行.
+
+[ 2016-05-26T20:24:05+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/doRegister
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: password G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: REG_MSG G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 50 行.
+
+[ 2016-05-26T20:27:08+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/doRegister
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] Undefined index: password G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: REG_MSG G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 50 行.
+
+[ 2016-05-26T20:27:20+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/doRegister
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] Undefined index: password G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: REG_MSG G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\RegisterController.class.php 第 50 行.
+
+[ 2016-05-26T20:29:27+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/doRegister
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: INSERT INTO `xh_user` (`UserID`,`username`,`pwd`,`runtime`,`imageurl`) VALUES ('2013100','zx','123','16-05-26 08:29:27','http://placehold.it/100x100') [ RunTime:0.0140s ]
+
+[ 2016-05-26T20:33:28+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/doRegister
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2016-05-26T20:33:53+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/doRegister
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2016-05-26T20:34:56+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/doRegister
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+

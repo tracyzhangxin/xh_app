@@ -1,0 +1,1 @@
+a:7:{i:0;s:6:"UserID";i:1;s:8:"username";i:2;s:3:"pwd";i:3;s:8:"imageurl";i:4;s:7:"runtime";s:3:"_pk";s:6:"UserID";s:5:"_type";a:5:{s:6:"UserID";s:11:"varchar(12)";s:8:"username";s:11:"varchar(20)";s:3:"pwd";s:11:"varchar(50)";s:8:"imageurl";s:11:"varchar(50)";s:7:"runtime";s:8:"datetime";}}
