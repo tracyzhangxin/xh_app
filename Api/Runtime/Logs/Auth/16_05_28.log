@@ -1,0 +1,321 @@
+[ 2016-05-28T11:24:49+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.060004s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.062004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.062004s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='2012011' and pwd='d41d8cd98f00b204e9800998ecf8427e' )  [ RunTime:0.2010s ]
+
+[ 2016-05-28T11:24:59+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='2013011' and pwd='d41d8cd98f00b204e9800998ecf8427e' )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:25:33+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='20131' and pwd='d41d8cd98f00b204e9800998ecf8427e' )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:26:17+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='20131' and pwd='81dc9bdb52d04dc20036dbd8313ed055' )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:27:01+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='20131' and pwd='81dc9bdb52d04dc20036dbd8313ed055' )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:27:02+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='20131' and pwd='81dc9bdb52d04dc20036dbd8313ed055' )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:27:02+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='20131' and pwd='81dc9bdb52d04dc20036dbd8313ed055' )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:27:02+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='20131' and pwd='81dc9bdb52d04dc20036dbd8313ed055' )  [ RunTime:0.0010s ]
+
+[ 2016-05-28T11:27:03+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='20131' and pwd='81dc9bdb52d04dc20036dbd8313ed055' )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:27:03+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='20131' and pwd='81dc9bdb52d04dc20036dbd8313ed055' )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:27:03+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='20131' and pwd='81dc9bdb52d04dc20036dbd8313ed055' )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:27:04+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='20131' and pwd='81dc9bdb52d04dc20036dbd8313ed055' )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:27:21+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='201311' and pwd='81dc9bdb52d04dc20036dbd8313ed055' )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:27:21+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='201311' and pwd='81dc9bdb52d04dc20036dbd8313ed055' )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:27:48+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='201311' and pwd='81dc9bdb52d04dc20036dbd8313ed055' )  [ RunTime:0.0350s ]
+
+[ 2016-05-28T11:27:48+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='201311' and pwd='81dc9bdb52d04dc20036dbd8313ed055' )  [ RunTime:0.0010s ]
+
+[ 2016-05-28T11:27:49+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='201311' and pwd='81dc9bdb52d04dc20036dbd8313ed055' )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:30:58+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/doRegister
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SELECT * FROM `xh_user` WHERE ( UserID=201311 )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:32:26+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Register/doRegister
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SELECT * FROM `xh_user` WHERE ( UserID=20131003634 )  [ RunTime:0.0000s ]
+SQL: INSERT INTO `xh_user` (`UserID`,`username`,`pwd`,`runtime`,`imageurl`) VALUES ('20131003634','zx','81dc9bdb52d04dc20036dbd8313ed055','16-05-28 11:32:26','http://placehold.it/100x100') [ RunTime:0.0190s ]
+
+[ 2016-05-28T11:33:31+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin?username=%27zx%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='20131003634' and pwd='81dc9bdb52d04dc20036dbd8313ed055' )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:37:24+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Modify/ModifyPwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-05-28T11:37:52+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Modify/ModifyPwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-05-28T11:38:06+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Modify/ModifyPwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-05-28T11:38:34+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin?username=%27zx%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='20131003634' and pwd='81dc9bdb52d04dc20036dbd8313ed055' )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:39:08+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin?username=%27zx%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='20131003634' and pwd='d41d8cd98f00b204e9800998ecf8427e' )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:40:26+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin?username=%27zx%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='20131003634' and pwd='d41d8cd98f00b204e9800998ecf8427e' )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:40:34+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Modify/ModifyPwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: UPDATE `xh_user` SET `pwd`='81b073de9370ea873f548e31b8adc081' WHERE ( UserID=20131003634 ) [ RunTime:0.0230s ]
+
+[ 2016-05-28T11:41:07+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin?username=%27zx%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='20131003634' and pwd='81dc9bdb52d04dc20036dbd8313ed055' )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:41:14+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/login/checklogin?username=%27zx%27
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2048] Declaration of Auth\Controller\LoginController::get() should be compatible with Think\Controller::get($name = '') G:\xampp\htdocs\thinkphp_3.2.3_full\Api\Auth\Controller\LoginController.class.php 第 60 行.
+SQL: SELECT * FROM `xh_user` WHERE ( userid='20131003634' and pwd='81b073de9370ea873f548e31b8adc081' )  [ RunTime:0.0000s ]
+
+[ 2016-05-28T11:42:15+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/auth/Modify/ModifyPwd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: UPDATE `xh_user` SET `pwd`='81dc9bdb52d04dc20036dbd8313ed055' WHERE ( UserID=20131003634 ) [ RunTime:0.0460s ]
+

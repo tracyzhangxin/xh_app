@@ -10,13 +10,15 @@ class RegisterController extends Controller
 	const OPERATION_ERROR=100001;//	操作失败
 	const POST_EMPTY=100002; //用户名或者密码为空
 	const USER_EXIST=100003;//用户已存在
+	const OPERATION_INVALID=100004;//非法造作
 
 	//错误信息
 	private static $REG_MSG=array(
 		self::SUCCESS => 'success',
 		self::OPERATION_ERROR => '注册失败',
 		self::POST_EMPTY =>'用户名或密码不能为空',
-		self::USER_EXIST =>'用户已存在'
+		self::USER_EXIST =>'用户已存在',
+		self::OPERATION_INVALID => '非法操作'
 		);
 
 

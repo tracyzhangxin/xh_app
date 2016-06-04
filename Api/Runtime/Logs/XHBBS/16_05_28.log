@@ -1,0 +1,11 @@
+[ 2016-05-28T11:44:58+08:00 ] ::1 /thinkphp_3.2.3_full/index.php/XHBBS/Essay/getarticle
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() G:\xampp\htdocs\thinkphp_3.2.3_full\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `xh_article` [ RunTime:0.0020s ]
+SQL: SELECT A.ID,A.title,A.userid,A.content,A.runtime,B.content comment,B.runtime commenttime FROM xh_article A left JOIN xh_comment B on B.articleID=A.ID   [ RunTime:0.0000s ]
+

@@ -1,5 +1,5 @@
 <?php
-namespace Auth\Controller;
+namespace XHBBS\Controller;
 use Think\Controller;
 /**
 * 定义公共控制器方法

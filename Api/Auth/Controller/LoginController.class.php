@@ -57,4 +57,23 @@ class LoginController extends Controller {
     public function get(){
         dump(cookie());
     }
+
+    public function Logout(){
+        $userid=I('post.userid','');
+        if($userid){
+           cookie($userid,'');
+            $this->ajaxReturn(array(
+                "code" => self::SUCCESS,
+                "msg"  => self::$REG_MSG[self::SUCCESS],
+                "data" => array()
+                ));
+        }
+        else{
+            $this->ajaxReturn(array(
+                "code" => self::OPERATION_ERROR,
+                "msg"  => self::$REG_MSG[self::OPERATION_ERROR],
+                "data" => array()
+                ));
+        }
+    }
 }
